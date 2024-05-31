@@ -4,6 +4,11 @@ Programming task
 
 Use Python 3.12.3
 
+Use python virtual environment if needed.
+Install pycodestyle 2.11.1 and pylint 3.2.2
+You can run those and unit tests with:
+./test.sh
+
 Change directory to
 cd programming_task
 
